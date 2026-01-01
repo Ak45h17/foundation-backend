@@ -1,0 +1,15 @@
+# Node dependencies
+backend/node_modules/
+
+# Environment variables
+.env
+backend/.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
