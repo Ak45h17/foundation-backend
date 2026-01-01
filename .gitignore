@@ -1,15 +1,6 @@
-# Node dependencies
+# Ignore dependencies
 backend/node_modules/
 
-# Environment variables
+# Ignore env files
 .env
 backend/.env
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# OS files
-.DS_Store
-Thumbs.db
